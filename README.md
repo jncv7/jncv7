@@ -30,7 +30,7 @@ A project I'm showcasing as part of my journey as a developer and security-minde
 I currently work in Internal IT Audit, or rather a more GRC Space. This tool was made to gather information on AWS IAM postures of AWS accounts that my team and I were looking at. 
 Its a crude script, but I actually coded this one myself! I am looking to incorporate AI to have better visuals for future audits, making it easier for non technical people to understand what they are looking at! 
 
-[Explore the repository](./pika-who)
+[Explore the repository](https://github.com/jncv7/pika-who)
 
 ---
 
